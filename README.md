@@ -1,4 +1,3 @@
-# OWO
 ## HACK OWO
 Mình chạy code này bằng python
 Mình mới học code nên code của mình cũng hơi kém
