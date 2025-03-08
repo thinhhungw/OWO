@@ -6,3 +6,5 @@ Các bạn phải cài ngôn ngữ Python, thì mới sử dụng được code 
 ## LINK CÀI PYTHON: https://www.python.org/downloads/
 
 Hi vọng mọi người có thể dùng đc code mình :33
+## Nếu có gì thắc mắc, các bạn có thể dms mình qua discord nhé!
+TK: migu_2008
