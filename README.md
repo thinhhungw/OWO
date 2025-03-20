@@ -5,7 +5,11 @@
 - This code runs on CMD (Command Prompt).  
 
 ## 🔗 Download Python: https://www.python.org/downloads/  
-- Hope you guys find my code useful! :33   
+- Hope you guys find my code useful! :33
+- Go to search and find cmd, and run the following commands
++ pip install pygetwindow pyautogui
++ pip install thonny
++ python -m thonny
 
 ## 🤖 ABOUT THE OWO BOT  
 - The bot has a random check feature.  
