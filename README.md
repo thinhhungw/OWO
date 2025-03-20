@@ -5,9 +5,7 @@
 - This code runs on CMD (Command Prompt).  
 
 # 🔗 Download Python: https://www.python.org/downloads/  
-- Hope you guys find my code useful! :33  
-
-// =========================  
+- Hope you guys find my code useful! :33   
 
 # 🤖 ABOUT THE OWO BOT  
 - The bot has a random check feature.  
@@ -17,8 +15,6 @@
 - The bot may suspect you of using a tool if you run it for an extended period.  
 - Don't get too greedy—overusing the tool **can get you permanently banned**   
   (and so far, no one has ever successfully appealed a ban).  
-
-// =========================  
 
 # 📩 NEED HELP?  
 - Feel free to DM me on Discord!  
