@@ -10,6 +10,7 @@
 - pip install pygetwindow pyautogui
 - pip install thonny
 - python -m thonny
+- If you want to stop the code, just do Ctrl + C in cmd window
 
 ## 🤖 ABOUT THE OWO BOT  
 - The bot has a random check feature.  
