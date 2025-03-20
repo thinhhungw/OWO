@@ -1,16 +1,26 @@
-## HACK OWO
-* Mình chạy code này bằng python
-* Mình mới học code nên code của mình cũng hơi kém
-* Các bạn phải cài ngôn ngữ Python, thì mới sử dụng được code của mình
-* Code của mình chạy trên CMD
-## LINK CÀI PYTHON: https://www.python.org/downloads/
-* Hi vọng mọi người có thể dùng đc code mình :33
-## Đối với bot owo
-* Bot có tính năng random ra check bot
-* Nó có thể gửi riêng tin nhắn check cho bạn, hoặc là nhắn trực tiếp ở kênh bạn đang spam
-* Vì nó là random, nên mình mong các bạn hãy cố gắng để ý đến việc bot chạy
-* Việc chạy tool cho owo là trái phép, nên mong các bạn không đi flex, cũng như là để lộ là đang dùng tool
-* Bot có tính năng nghi ngờ bạn dùng tool khi bạn cho bot chạy trong 1 khoảng thời gian dài
-* Bạn không nên quá tham trong việc chạy tool, nó có thể ăn BAN vĩnh viễn (từ trước đến nay chưa có ai kiện mà được gỡ BAN cả)
-## Nếu có gì thắc mắc, các bạn có thể dms mình qua discord nhé!
-* TK: migu_2008
+// 🚀 HACK OWO 🚀  
+// 🐍 I run this code using Python.  
+// 👶 I'm new to coding, so my code might not be the best.  
+// ⚠️ You need to install Python to use my code.  
+// 🖥️ This code runs on CMD (Command Prompt).  
+
+// 🔗 Download Python: https://www.python.org/downloads/  
+
+// ✨ Hope you guys find my code useful! :33  
+
+// =========================  
+
+// 🤖 ABOUT THE OWO BOT 🤖  
+// 🎲 The bot has a random check feature.  
+// 📩 It can send a private check message to you or post directly in the channel where you're spamming.  
+// ⚠️ Since it's random, please stay alert when the bot is running.  
+// 🚫 Running tools for owo is **against the rules**, so **please don’t flex** or expose that you're using a tool.  
+// 🕵️‍♂️ The bot may suspect you of using a tool if you run it for an extended period.  
+// ❌ Don't get too greedy—overusing the tool **can get you permanently banned**   
+//    (and so far, no one has ever successfully appealed a ban).  
+
+// =========================  
+
+// 📩 NEED HELP?  
+// 💬 Feel free to DM me on Discord!  
+// 🆔 Username: migu_2008  
