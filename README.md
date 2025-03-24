@@ -1,4 +1,4 @@
-## 🚀 HACK OWO  
+## 🚀 AUTO OWO  
 - I run this code using Python.  
 - I'm new to coding, so my code might not be the best.  
 - You need to install Python to use my code.  
