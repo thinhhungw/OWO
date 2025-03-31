@@ -4,13 +4,13 @@
 - You need to install Python to use my code.  
 - This code runs on CMD (Command Prompt).  
 
-## 🔗 Download Python: https://www.python.org/downloads/  
+## 🔗 Download Python: `https://www.python.org/downloads/`
 - Hope you guys find my code useful! :33
-- Go to search and find cmd, and run the following commands:
-- pip install pygetwindow pyautogui
-- pip install thonny
-- python -m thonny
-- If you want to stop the code, just do Ctrl + C in cmd window
+- ✨ Go to search and find cmd, and run the following commands:
+- `pip install pygetwindow pyautogui`
+- `pip install thonny`
+- `python -m thonny`
+- If you want to stop the code, just do `Ctrl + C` in cmd window
 
 ## 🤖 ABOUT THE OWO BOT  
 - The bot has a random check feature.  
@@ -25,8 +25,8 @@
 - Feel free to DM me on Discord!  
 - Username: migu_2008
 
-## VIDEO WILL HELP YOU SETUP
+## 🎬 VIDEO WILL HELP YOU SETUP
 - https://drive.google.com/file/d/1JowdQD32ckJI9BU11GgZRAulDX-Q-hIU/view?usp=sharing
 
-## HAVE FUN!
+## 🎉 HAVE FUN!
 - Follow my github profile for more :3
